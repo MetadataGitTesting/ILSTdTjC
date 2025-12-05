@@ -1,0 +1,58 @@
+name: sara.leuschke
+description: interface
+version: 0.2.7.480
+author: 5u6ji1je.m8bsq4cg@bss0a4qb.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: saraleuschke
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 21:47:23'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 21:47:23'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T21:47:23.311807Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '787074'
+  createdAt: '2025-12-05T21:47:23.311807Z'
+  type: plibMaven
+projectDependencies:
+  '107':
+    projectUID: 107
+    projectName: numbers.padberg
+    repositoryPath: gitUri=http://gitserver:3000/dev_gT7vJDkc_team_209/dev_gT7vJDkc_project_107.git&subPath=
+    version: numbers.padberg/0.36.451
+    isDefault: false
+    author: null
+    createdAt: '2025-12-05 21:47:19'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
